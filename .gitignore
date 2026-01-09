@@ -1,0 +1,24 @@
+# Python字节码文件
+__pycache__/
+*.pyc
+
+# PyInstaller构建文件
+build/
+dist/
+*.spec
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+
+# 环境文件
+.env
+.venv
+venv/
